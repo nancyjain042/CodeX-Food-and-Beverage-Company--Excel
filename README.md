@@ -13,20 +13,23 @@ c. Which type of marketing reaches the most Youth (15-30)?
 
 2. Consumer Preferences:
 a. What are the preferred ingredients of energy drinks among respondents?
-b. What packaging preferences do respondents have for energy drinks?
 
 3. Competition Analysis:
 a. Who are the current market leaders?
-b. What are the primary reasons consumers prefer those brands over ours?
-6. Marketing Channels and Brand Awareness:
+
+5. Marketing Channels and Brand Awareness:
 a. Which marketing channel can be used to reach more customers?
 b. How effective are different marketing strategies and channels in reaching our customers?
+
+Purchase Behavior:
+a. Where do respondents prefer to purchase energy drinks?
 
 
 
 
 # Dashboard visualization
+<img width="608" alt="Screenshot 2023-08-24 154747" src="https://github.com/nancyjain042/CodeX-Food-and-Beverage-Company--Excel/assets/136807881/928e2012-356a-4992-918e-3bae1a8679fa">
 
 
 
-# Insights:
+
