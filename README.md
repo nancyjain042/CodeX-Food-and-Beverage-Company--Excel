@@ -17,11 +17,11 @@ a. What are the preferred ingredients of energy drinks among respondents?
 3. Competition Analysis:
 a. Who are the current market leaders?
 
-5. Marketing Channels and Brand Awareness:
+4. Marketing Channels and Brand Awareness:
 a. Which marketing channel can be used to reach more customers?
 b. How effective are different marketing strategies and channels in reaching our customers?
 
-Purchase Behavior:
+5.Purchase Behavior:
 a. Where do respondents prefer to purchase energy drinks?
 
 
